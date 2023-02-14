@@ -1,0 +1,4 @@
+flask
+robotframework-seleniumwire
+selenium
+tldextract
